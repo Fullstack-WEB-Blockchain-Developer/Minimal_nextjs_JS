@@ -104,7 +104,7 @@ export default function HomeMinimal() {
             </Typography>
           </m.div>
           <m.div variants={varFade().inDown}>
-            <Typography variant="h2">What minimal helps you?</Typography>
+            <Typography variant="h2" className="text-grey-200">What minimal helps you?</Typography>
           </m.div>
         </Box>
 

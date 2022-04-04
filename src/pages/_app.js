@@ -67,6 +67,8 @@ import { AuthProvider } from '../contexts/JWTContext';
 // import { AuthProvider } from '../contexts/FirebaseContext';
 // import { AuthProvider } from '../contexts/AwsCognitoContext';
 
+import "../styles/global.css";
+
 // ----------------------------------------------------------------------
 
 MyApp.propTypes = {
