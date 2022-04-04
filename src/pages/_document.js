@@ -11,7 +11,10 @@ import palette from '../theme/palette';
 // ----------------------------------------------------------------------
 
 function createEmotionCache() {
-  return createCache({ key: 'css' });
+  return createCache({
+    key: 'css',
+    prepend: true,
+  });
 }
 
 export default class MyDocument extends Document {

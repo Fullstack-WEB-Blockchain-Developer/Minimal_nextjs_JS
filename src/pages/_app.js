@@ -1,3 +1,4 @@
+import "../styles/global.css";
 // i18n
 import '../locales/i18n';
 
@@ -66,8 +67,6 @@ import { AuthProvider } from '../contexts/JWTContext';
 // import { AuthProvider } from '../contexts/Auth0Context';
 // import { AuthProvider } from '../contexts/FirebaseContext';
 // import { AuthProvider } from '../contexts/AwsCognitoContext';
-
-import "../styles/global.css";
 
 // ----------------------------------------------------------------------
 
