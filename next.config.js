@@ -28,6 +28,6 @@ module.exports = withTM({
     AUTH0_CLIENT_ID: '',
     AUTH0_DOMAIN: '',
     //
-    MAPBOX: '',
+    MAPBOX: 'pk.eyJ1IjoibWluaW1hbHByb2QiLCJhIjoiY2trNTl1b3dzMWJ2MjJzcnk1amEzemh3bCJ9.D1069PhiG7WWBRhkXOOXVA',
   },
 });
